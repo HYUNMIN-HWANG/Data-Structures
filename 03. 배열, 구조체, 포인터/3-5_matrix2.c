@@ -1,3 +1,6 @@
+//전치 행렬 계산하기
+//행렬을 (row, col, value) 로 표현한다.
+
 #include <stdio.h>
 #include <stdlib.h>
 
