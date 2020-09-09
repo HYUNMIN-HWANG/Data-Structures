@@ -1,3 +1,6 @@
+//정수 배열 스택 프로그램
+//전역 변수로 구현
+
 #include <stdio.h>
 #include <stdlib.h>
 
